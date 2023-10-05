@@ -1,0 +1,24 @@
+{
+  "name": "sheetbot_dialogflow",
+  "version": "1.0.0",
+  "description": "A dialogflow fulfillment Nodejs project that connects google sheets to dialogflow",
+  "main": "youtube.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hanif Jilani",
+  "license": "ISC",
+  "dependencies": {
+    "actions-on-google": "^2.13.0",
+    "axios": "^0.21.0",
+    "dialogflow-fulfillment": "^0.6.1",
+    "dotenv": "^16.3.1",
+    "express": "^4.17.1",
+    "request": "^2.88.2",
+    "request-promise-native": "^1.0.9"
+  },
+  "repository": {
+    "type": "git",
+    "url": "sheetbot"
+  }
+}
