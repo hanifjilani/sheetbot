@@ -7,5 +7,7 @@ I then send that information back to dialogflow to display to the user.
 
 This project was my initial research and practice to understand how dialogflow and Nodejs works. This project interested and motivated me to learn more about chatbots and I ended up finding a course/internship from Suven Consultants and Technologies Pvt Ltd.
 I learned and built a basic Food Ordering Chatbot and a Chatbot that emulates a lab-coordinator at a Diagonistics lab.
+
+Will be adding more chatbot based projects in the future soon!
   
 </p>
